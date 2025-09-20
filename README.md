@@ -1,4 +1,4 @@
-#AI Exam Prep
+AI Exam Prep
 
 **AI Exam Prep** is an intelligent exam preparation platform powered by AI. It helps students and professionals prepare for tests by generating personalized quizzes, explaining complex topics, and tracking progress — all using the latest in artificial intelligence.
 
